@@ -1,0 +1,6 @@
+{
+  "name": "CampusMind - College RAG Assistant",
+  "description": "Intelligent College RAG knowledge assistant with vector semantic search, timetable intelligence, document OCR, and official citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
